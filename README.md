@@ -1,1 +1,0 @@
-# gushwork-assignment
