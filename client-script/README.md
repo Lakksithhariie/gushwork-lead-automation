@@ -1,4 +1,4 @@
-**Lead Capture Script: Implementation Guide**
+#### Lead Capture Script: Implementation Guide
 
 **The Problem:** Gushwork serves diverse clients ranging from local service providers to industrial manufacturers. Their websites are built on a fragmented landscape of CMS platforms (WordPress, Wix, Squarespace, Custom HTML). Building a unique integration for every new client is unscalable. We need a ***"write once, deploy everywhere"*** solution that captures leads without requiring clients to change their website code or their backend infrastructure.
 
