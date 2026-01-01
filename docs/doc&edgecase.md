@@ -46,11 +46,11 @@ I designed this system to handle reality, not just the ideal testing environment
 
 ---
 
-**3. The Roadmap: From "Mailbox" to "Revenue Engine"**
+**3. The 2-Week Roadmap **
 
 If I had two more weeks, I would not just polish the code. I would transform this system from a passive data collector into an active revenue generator. I would execute these three initiatives:
 
-**Initiative 1: The "Zero-Research" Lead (Enrichment)**
+**Initiative 1: The Lead Enrichment**
 
 **The Problem:**
 Currently, the sales rep only receives what the customer types (Name + Email). They still waste 15 minutes Googling the lead to determine: "Is this a big company? Can they afford us?"
