@@ -46,7 +46,7 @@ I designed this system to handle reality, not just the ideal testing environment
 
 ---
 
-**3. The 2-Week Roadmap **
+**3. The 2-Week Roadmap**
 
 If I had two more weeks, I would not just polish the code. I would transform this system from a passive data collector into an active revenue generator. I would execute these three initiatives:
 
